@@ -1,3 +1,3 @@
-# d3-lab1
+# NYU
 
 This is the first assignment
